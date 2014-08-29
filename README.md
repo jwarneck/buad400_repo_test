@@ -1,4 +1,3 @@
-buad400_repo_test
+BUAD 400 Test Repo Example
 =================
-
-Test Repository for BUAD400 
+Test Example
